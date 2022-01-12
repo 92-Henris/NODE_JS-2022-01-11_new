@@ -1,0 +1,16 @@
+{
+  "name": "node_js-2022-01-11_new",
+  "version": "1.0.0",
+  "description": "First NodeJs project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "92-Henris <email>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
